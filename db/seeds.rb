@@ -3,8 +3,6 @@
 #
 # Examples:
 #
-Museum.destroy_all
-Review.destroy_all
 
 museums = Museum.create([
   {
